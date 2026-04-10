@@ -1,0 +1,5 @@
+{
+  "name": "Campus Activities Map",
+  "description": "Discover extracurricular activities on campus with an interactive map powered by Google Sheets.",
+  "requestFramePermissions": ["geolocation"]
+}
